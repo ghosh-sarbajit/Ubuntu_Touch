@@ -1,6 +1,6 @@
 # Required Tools
 
-Link to usefull tools
+Link to useful tools
 
 [SDK Platform Tools](https://developer.android.com/tools/releases/platform-tools)
 
