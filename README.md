@@ -9,5 +9,10 @@ Link to useful tools
 # Steps
 
 1. Unlock the boot loader (https://youtu.be/y40MHUkyJ4s?feature=shared)
-2. Install Ubuntu Touch (https://youtu.be/n5I5huOq9ng?feature=shared)
+  - adb devices
+  - adb reboot bootloader
+  - fastboot devices   
+  - fastboot flashing unlock (old devices: fastboot oem unlock)   
+  - fastboot reboot   
+3. Install Ubuntu Touch (https://youtu.be/n5I5huOq9ng?feature=shared)
 
